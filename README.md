@@ -1,4 +1,4 @@
-# Vbue-Food Management
+# Vue-Food Management
 
 This template should help get you started developing with Vue 3 in Vite.
 
